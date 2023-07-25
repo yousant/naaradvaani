@@ -9,4 +9,4 @@ https://yousant.github.io/naaradvaani/
 
 <img width="960" alt="2" src="https://github.com/yousant/naaradvaani/assets/97018523/6ec4fd12-00cc-4c63-a543-3e0b9dbdd8a1">
 <img width="960" alt="3" src="https://github.com/yousant/naaradvaani/assets/97018523/2e76d4a9-204a-4537-8bd2-c9c7edcd014d">
-<img width="960" alt="4" src="https://github.com/yousant/naaradvaani/assets/97018523/5196f305-2175-4aa9-b47b-bf439a386f5b">
+<img width="947" alt="4" src="https://github.com/yousant/naaradvaani/assets/97018523/20890dda-2513-4a01-9cc7-64fb5226918e">
